@@ -1,6 +1,6 @@
 # Project
 
-I analyzed a dataset using R for a company, Forward Ride, a bike sharing company. 
+I analyzed a dataset using R for a company, Precision analytics, a bike sharing company. 
 
 ## 🔗 Links
 - [**Article**](https://www.kellyjadams.com/post/google-capstone-project) - wrote an article summarizing my findings.
